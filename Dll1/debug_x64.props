@@ -3,7 +3,7 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
-    <IncludePath>E:\source\repos\Dll1\Dll1\numpy;D:\app\PCL 1.12.1\include\pcl-1.12;D:\app\PCL 1.12.1\3rdParty\Boost\include\boost-1_78;D:\app\PCL 1.12.1\3rdParty\Eigen\eigen3;D:\app\PCL 1.12.1\3rdParty\FLANN\include;D:\app\PCL 1.12.1\3rdParty\Qhull\include;C:\Program Files\OpenNI2\Include;D:\app\PCL 1.12.1\3rdParty\VTK\include;D:\app\PCL 1.12.1\3rdParty\VTK\include\vtk-9.1;$(IncludePath)</IncludePath>
+    <IncludePath>E:\source\repos\pydll\Dll1\numpy;D:\app\PCL 1.12.1\include\pcl-1.12;D:\app\PCL 1.12.1\3rdParty\Boost\include\boost-1_78;D:\app\PCL 1.12.1\3rdParty\Eigen\eigen3;D:\app\PCL 1.12.1\3rdParty\FLANN\include;D:\app\PCL 1.12.1\3rdParty\Qhull\include;C:\Program Files\OpenNI2\Include;D:\app\PCL 1.12.1\3rdParty\VTK\include;D:\app\PCL 1.12.1\3rdParty\VTK\include\vtk-9.1;$(IncludePath)</IncludePath>
     <LibraryPath>D:\app\PCL 1.12.1\lib;D:\app\PCL 1.12.1\3rdParty\Boost\lib;D:\app\PCL 1.12.1\3rdParty\FLANN\lib;C:\Program Files\OpenNI2\Lib;D:\app\PCL 1.12.1\3rdParty\Qhull\lib;D:\app\PCL 1.12.1\3rdParty\VTK\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup>

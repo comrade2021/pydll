@@ -1,3 +1,4 @@
+#include "pch.h"
 #include "toolbox.h"
 #include <pcl/kdtree/kdtree_flann.h>
 #include <pcl/search/kdtree.h>

@@ -140,6 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="cfh_hsv_rate.h" />
+    <ClInclude Include="cfh_hsv_rate.hpp" />
     <ClInclude Include="feature_extractor.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="keypoints_detector.h" />

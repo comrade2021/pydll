@@ -33,6 +33,12 @@
     <ClInclude Include="toolbox.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="cfh_hsv_rate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cfh_hsv_rate.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">
